@@ -1,0 +1,10 @@
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\bin\Debug\GPS_Mods.exe.config
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\bin\Debug\GPS_Mods.exe
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\bin\Debug\GPS_Mods.pdb
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\obj\Debug\GPS_Mods.csprojResolveAssemblyReference.cache
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\obj\Debug\GPS_Mods.Form1.resources
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\obj\Debug\GPS_Mods.Properties.Resources.resources
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\obj\Debug\GPS_Mods.csproj.GenerateResource.Cache
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\obj\Debug\GPS_Mods.csproj.CoreCompileInputs.cache
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\obj\Debug\GPS_Mods.exe
+C:\Users\MechanicPro\Desktop\WORK\WORKSPACE\MSVS\GPS_Mods\GPS_Mods\obj\Debug\GPS_Mods.pdb
